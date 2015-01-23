@@ -26,7 +26,6 @@
 
   ol {
     list-style-type: lower-roman;
-    font-style: normal;
     padding: -.5;
 
   }
@@ -38,3 +37,13 @@
   }
 
   .list1 {list-style-type: lower-roman;}
+
+  .quote-mark {
+    color: #79756f;
+  }
+
+  .author-name {
+    width:  auto;
+    display: block;
+    text-align:right;
+  }
