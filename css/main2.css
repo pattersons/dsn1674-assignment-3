@@ -3,14 +3,32 @@
     background-color: #dbd6cf;
   }
 
-  h1, h2 {
+  h1 {
     color: #79756f;
     font-weight: normal;
-    font-size: 4rem;
+    font-size: 3rem;
     line-height: 1;
     font-family: 'Bevan', cursive;
 
   }
+  h2 {
+    color: #79756f;
+    font-weight: normal;
+    font-size: 2rem;
+    line-height: 1;
+    font-family: 'Bevan', cursive;
+}
+
+  h3 {
+    color: #79756f;
+    font-weight: normal;
+    font-size: 1rem;
+    line-height: 1.5;
+    font-family: 'Bevan', cursive;
+  }
+
+
+
 
   p {
     font-style: normal;
@@ -46,4 +64,29 @@
     width:  auto;
     display: block;
     text-align:right;
+
   }
+
+  .celestial {
+    color: #79756f;
+  }
+
+  .rounded {
+    color: #79756f;
+  }
+
+  .author {
+    color: #79756f;
+  }
+
+  figcaption {
+    font-family: Arial,sans-serif;
+    font-style: italic;
+  }
+
+  #sources {
+    color: #79756f;
+    font-weight: normal;
+    font-size: 1.5rem;
+    line-height: 1;
+    font-family: 'Bevan', cursive;}
